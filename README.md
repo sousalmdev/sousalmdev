@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sousalmdev
 - 👀 I’m interested in working with development.
-- 🌱 I’m currently learning Dev from beginning.
+- 🌱 I’m currently learning JS/TS/Angular.
 - 💞️ I’m looking to collaborate on projects.
 
 

@@ -1,5 +1,6 @@
 # 💫 About Me:
-⚙️ Typescript/Angular, NextJS, TailwindCSS, Sass and Bootstrap. []
+⚙️ Typescript/Angular, NextJS, TailwindCSS, Sass and Bootstrap. 
+
 👋 Leandro Medeiros de Sousa, 19 anos, Desenvolvedor Front-End/UI Developer.
 
 ## 🌐 Socials:

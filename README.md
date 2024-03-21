@@ -3,6 +3,8 @@
 
 👋 Leandro Medeiros de Sousa, 19 anos, Desenvolvedor Front-End/UI Developer.
 
+👋🇺🇸 Leandro Medeiros de Sousa, 19 years old, Front End/ UI Developer.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sousalmd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leosousadev) 
 

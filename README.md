@@ -9,7 +9,7 @@
 ⏳ Pretendo aprender e trabalhar com/I'm seeking to learn and work with: MongoDB,  Golang, SQL Server, Kotlin.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style-for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sousalmd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style-for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leosousadev) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style-for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sousalmd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style-for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leosousadev) 
 [![Chrome](https://img.shields.io/badge/Portfolio-black?style-for-the-badge&logo=google&logoColor=white)](https://portfolio-leosousadev.vercel.app)
 
 # 💻 Tech Stack:

@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style-for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sousalmd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style-for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leosousadev) 
-[![Chrome](https://img.shields.io/badge/Portfolio-black?style-for-the-badge&logo=google&logoColor=white)](https://portfolio-leosousadev.vercel.app)
+[![Chrome](https://img.shields.io/badge/Portfolio-black?style-for-the-badge&logo=google&logoColor=white)](https://portfoleosous.vercel.app)
 
 # 💻 Tech Stack:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-cyan?style=for-the-badge&logo=tailwindcss&logoColor=white)

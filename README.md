@@ -13,6 +13,9 @@
 [![Chrome](https://img.shields.io/badge/Portfolio-black?style-for-the-badge&logo=google&logoColor=white)](https://portfoleosous.vercel.app)
 
 # 💻 Tech Stack:
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-cyan?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![React JS](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
